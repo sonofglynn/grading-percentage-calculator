@@ -2,8 +2,9 @@
 A Helpful Tool for Teachers
 
 ## Description
-As a teacher grading assignments, I wanted to develop an easier way to finding grading percentages than calculating each student's individually. This tool is a solution that can show you the grade percentages for any assignment all in one place with just one calculation.
+Calculating percents for grades can be repetitive. This tool can show you all (or some) of the possible grade percentages for an assignment based on the number of problems.
 
 ## Click here to access the tool: [Grading Percentage Calculator](https://sonofglynn.github.io/grading-percentage-calculator/)
+
 
 This tool was built using React.
