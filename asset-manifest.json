@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/grading-percentage-calculator/static/css/main.78983e8e.css",
+    "main.js": "/grading-percentage-calculator/static/js/main.9e286424.js",
+    "index.html": "/grading-percentage-calculator/index.html",
+    "main.78983e8e.css.map": "/grading-percentage-calculator/static/css/main.78983e8e.css.map",
+    "main.9e286424.js.map": "/grading-percentage-calculator/static/js/main.9e286424.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78983e8e.css",
+    "static/js/main.9e286424.js"
+  ]
+}

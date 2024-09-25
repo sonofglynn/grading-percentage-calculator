@@ -1,0 +1,2 @@
+html{font-size:25px}header{text-align:center}.calculator-container{align-items:stretch;display:flex}.config-container{background-color:#d3d3d3;flex-grow:1}.config-container,.display-container{border:.1em solid #000;flex-basis:0;padding:1em}.display-container{flex-grow:3}.display-column{vertical-align:top}#values-list{column-count:2;list-style-type:none}.colored-li{background-color:#d3d3d3}li{padding:.5em}
+/*# sourceMappingURL=main.78983e8e.css.map*/
